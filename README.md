@@ -1,3 +1,6 @@
+
+Suyansh Chouhan
+Siddhant Agarwa;l
 # Crypto Market Data Explorer
 
 An educational **DBMS + data-visualisation** project: 30 days of historical
